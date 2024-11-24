@@ -3,7 +3,7 @@ body {
     flex-direction: column;
     align-items: center;
     font-family: Arial, sans-serif;
-    background-color: #eb7215;
+    background-color: #510329;
     color: #ff007b; 
 }
 
@@ -22,8 +22,8 @@ body {
     align-items: center;
     justify-content: center;
     font-size: 36px;
-    background-color: #f0f0f0;
-    border: 2px solid black;
+    background-color: #050000;
+    border: 2px #ff007b;
     cursor: pointer;
 }
 
